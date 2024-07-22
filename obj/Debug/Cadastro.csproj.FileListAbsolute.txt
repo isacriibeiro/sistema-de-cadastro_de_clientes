@@ -1,0 +1,10 @@
+C:\Users\isacribeiro\Desktop\Cadastro\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\isacribeiro\Desktop\Cadastro\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\isacribeiro\Desktop\Cadastro\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\isacribeiro\Desktop\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\isacribeiro\Desktop\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\isacribeiro\Desktop\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\isacribeiro\Desktop\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\isacribeiro\Desktop\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\isacribeiro\Desktop\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\isacribeiro\Desktop\Cadastro\Cadastro\Cadastro\obj\Debug\Cadastro.Main.resources
